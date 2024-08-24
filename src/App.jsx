@@ -32,7 +32,7 @@ const siteProps = {
   linkedIn: "parkershamblin",
   medium: "",
   twitter: "",
-  youTube: "ParkerShamblin1",
+  youTube: "PythonWithParker",
 };
 
 const primaryColor = "#4E567E";

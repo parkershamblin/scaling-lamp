@@ -34,22 +34,22 @@ const projectList = [
   {
     title: "Virtual Reality Construction Worker Safety Training Platform",
     description: "Developed in Unity to enhance safety protocols for USF’s Rehabilitation, Robotics, and Prosthetics Lab.",
-    url: "https://github.com/Parkershamblin", // Replace with the actual project link if available
+    url: "", // Replace with the actual project link if available
   },
   {
     title: "RuneScape Computer Vision Bot",
     description: "Trained a Cascade Classifier using Python and OpenCV to automate cow farming in Old School RuneScape.",
-    url: "https://github.com/Parkershamblin", // Replace with the actual project link if available
+    url: "https://github.com/parkershamblin/opencv-OSRS", // Replace with the actual project link if available
   },
   {
     title: "Checkers Game with Pygame",
     description: "Built a fully functional checkers game in Python, including advanced game logic and a GUI.",
-    url: "https://github.com/Parkershamblin", // Replace with the actual project link if available
+    url: "https://github.com/parkershamblin/checkers-pygame", // Replace with the actual project link if available
   },
   {
     title: "Certified Kubernetes Application Developer",
     description: "Achieved certification demonstrating proficiency in deploying, managing, and troubleshooting Kubernetes applications.",
-    url: "https://github.com/Parkershamblin", // Replace with the actual certificate link if available
+    url: "https://kodekloud.com/certificate-verification/7C99A273E3-7C939E132E-7C936F633B/", // Replace with the actual certificate link if available
   },
 ];
 

@@ -24,7 +24,7 @@ const imageAltText = "Spiral of 0s and 1s.";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I’m Parker Shamblin, a Computer Science student at the University of South Florida with hands-on experience in software engineering and virtual reality development, where I’ve contributed to innovative projects like a safety-enhancing VR training platform, and I’m eager to continue growing as a software engineer.";
+  "I’m Parker Shamblin, a Computer Science student at the University of South Florida with hands-on experience in software engineering and virtual reality development, where I’ve contributed to innovative projects like a safety-enhancing VR training platform.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
