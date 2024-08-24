@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "..//images/robot-8846964_1280.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Image of humanoid robot.";
 
 /**
  * Project list
@@ -29,30 +29,27 @@ const imageAltText = "desktop with books and laptop";
  * An array of objects that will be used to display for your project
  * links section. Below is a sample, update to reflect links you'd like to highlight.
  */
+
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "Virtual Reality Construction Worker Safety Training Platform",
+    description: "Developed in Unity to enhance safety protocols for USF’s Rehabilitation, Robotics, and Prosthetics Lab.",
+    url: "https://github.com/Parkershamblin", // Replace with the actual project link if available
   },
   {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    title: "RuneScape Computer Vision Bot",
+    description: "Trained a Cascade Classifier using Python and OpenCV to automate cow farming in Old School RuneScape.",
+    url: "https://github.com/Parkershamblin", // Replace with the actual project link if available
   },
   {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    title: "Checkers Game with Pygame",
+    description: "Built a fully functional checkers game in Python, including advanced game logic and a GUI.",
+    url: "https://github.com/Parkershamblin", // Replace with the actual project link if available
   },
   {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    title: "Certified Kubernetes Application Developer",
+    description: "Achieved certification demonstrating proficiency in deploying, managing, and troubleshooting Kubernetes applications.",
+    url: "https://github.com/Parkershamblin", // Replace with the actual certificate link if available
   },
 ];
 

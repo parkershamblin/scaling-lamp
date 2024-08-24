@@ -16,15 +16,15 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/cyber-3400789_1280.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "Spiral of 0s and 1s.";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I’m Parker Shamblin, a Computer Science student at the University of South Florida with hands-on experience in software engineering and virtual reality development, where I’ve contributed to innovative projects like a safety-enhancing VR training platform, and I’m eager to continue growing as a software engineer.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I'm a passionate Computer Science student at the University of South Florida, where I’m honing my skills in software engineering and virtual reality development. Through my internships, I've had the opportunity to work on innovative projects like a Virtual Reality training platform designed to enhance construction worker safety. I'm proficient in Python, C, and SQL, and I thrive on solving complex problems and creating impactful technological solutions. As I work towards my graduation in May 2026, I'm eager to continue exploring opportunities that will help me grow as a software engineer and contribute to meaningful projects.";
 
 const About = () => {
   return (
